@@ -1,0 +1,22 @@
+.box {
+    width: 100px;
+    height: 100px;
+    border: 10px solid;
+    background-color: black;
+    margin-bottom: 5px;
+}
+
+.red {
+    border-color: darkred;
+    background-color: red;
+}
+
+.yellow {
+    border-color: darkorange;
+    background-color: yellow;
+}
+
+.green {
+    border-color: darkgreen;
+    background-color: green;
+}

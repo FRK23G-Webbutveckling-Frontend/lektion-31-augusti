@@ -10,3 +10,24 @@ h1 {
 p {
     color: purple;
 }
+
+.background-yellow {
+    background-color: yellow;
+}
+
+.background-pink {
+    background-color: pink;
+}
+
+.box-one {
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+}
